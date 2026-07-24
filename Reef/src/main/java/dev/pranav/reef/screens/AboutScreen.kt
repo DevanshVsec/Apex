@@ -262,7 +262,7 @@ fun LinksSection() {
             onClick = {
                 val intent = Intent(
                     Intent.ACTION_VIEW,
-                    "https://discord.gg/46wCMRVAre".toUri()
+                    "".toUri()
                 )
                 context.startActivity(intent)
             }
@@ -279,7 +279,7 @@ fun LinksSection() {
                 onClick = {
                     val intent = Intent(
                         Intent.ACTION_VIEW,
-                        "https://github.com/aload0/Reef".toUri()
+                        "https://github.com/DevanshVsec/Apex".toUri()
                     )
                     context.startActivity(intent)
                 }
