@@ -1,9 +1,7 @@
 <div align="center">
   <img src="Reef/src/main/ic_launcher-playstore.png" width="200" />
 
-  <h1>Apex</h1>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  <h1>Apex</H1>
 
 </div>
 
