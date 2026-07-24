@@ -24,7 +24,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Reef"
+rootProject.name = "Apex"
 include(":Reef")
-include(":appintro")
 include(":appintro")
